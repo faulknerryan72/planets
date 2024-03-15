@@ -2,8 +2,6 @@
 
 A repo for information on Wolfman and Dracula on planets
 <br>
-<br>
-</br>
 </br>
 
 ---
